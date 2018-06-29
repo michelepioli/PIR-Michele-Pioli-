@@ -9,5 +9,5 @@ Inside the folder MSC: the same files of Open translated in MSC/Nastran language
 
 5H_abaqus.inp: input file for Abaqus. The same problem mentioned above
 
-5H_static_py.inp: OpenNastran95 template file to be filled with numerical values (material properties, thicknesses, voltages...).
+nastran_static_PZT_template.inp: OpenNastran95 template file to be filled with numerical values (material properties, thicknesses, voltages...).
 Nastran_static.py is an example of python code to generate the input file by filling the template.
